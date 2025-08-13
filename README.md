@@ -9,9 +9,10 @@ I'm **spl1t4t3rminal** — a CTF Player passionate about **Web Exploitation**, *
 - Currently learning: Binary exploitation & malware analysis
 
 ## Skills & Tools
-![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) 
-![Ghidra](https://upload.wikimedia.org/wikipedia/commons/2/29/Ghidra_Logo.svg) 
-![Burp Suite](https://www.vectorlogo.zone/logos/portswigger/portswigger-icon.svg) 
-![Stegano](https://upload.wikimedia.org/wikipedia/commons/3/3a/Steganography_icon.svg)
+![Python](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Ghidra](https://img.shields.io/badge/ghidra-FF0000?style=flat-square&logo=ghidra&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/burp_suite-FF6F00?style=flat-square&logo=burp-suite&logoColor=white)
+![Stegano](https://img.shields.io/badge/stegano-008080?style=flat-square&logo=ghost&logoColor=white)
 
+Hasilnya lebih rapih dan kecil, cocok untuk di README.
 > *"Breaking systems to understand them."*
