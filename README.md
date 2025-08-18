@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm **spl1t4t3rminal** — a CTF Player passionate about **Web Exploitation**, **Digital Forensics**, and **Reverse Engineering**.
+I'm **spl1t4t3rminal** — a CTF Player passionate about **Web Exploitation**, **Reverse Engineering**, and **Binary Exploitation**.
 
 ## About Me
 - Active in Capture The Flag competitions
