@@ -1,10 +1,9 @@
 # Hi there 👋
 
-I'm **spl1t4t3rminal** — a CTF Player passionate about **Web Exploitation**
+I'm **spl1t4t3rminal** — a CTF Player
 
 ## About Me
 - Active in Capture The Flag competitions
-- Specializing in Web Security, RE, and Binary Exploitation
 - Tools I often use: Python, Burp Suite, Ghidra, Steganography Tools
 - Currently learning: Reverse & Binary
 
