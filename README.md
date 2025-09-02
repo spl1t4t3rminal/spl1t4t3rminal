@@ -7,10 +7,4 @@ I'm **spl1t4t3rminal** — a CTF Player
 - Tools I often use: Python, Burp Suite, Ghidra, Steganography Tools
 - Currently learning: Reverse & Binary
 
-## Skills & Tools
-![Python](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Ghidra](https://img.shields.io/badge/ghidra-FF0000?style=flat-square&logo=ghidra&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/burp_suite-FF6F00?style=flat-square&logo=burp-suite&logoColor=white)
-![Stegano](https://img.shields.io/badge/stegano-008080?style=flat-square&logo=ghost&logoColor=white)
-
 > *"Breaking systems to understand them."*
