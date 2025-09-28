@@ -9,3 +9,7 @@ I'm **Vincent** — a CTF Player
 - Currently learning: Reverse & Binary.
 
 > *"Breaking systems to understand them."*
+
+**Since:**`17 July 2025`
+
+>Enjoy Your Life XIXIXI
